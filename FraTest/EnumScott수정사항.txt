@@ -1,0 +1,1 @@
+기존 EnumScott.cs를 사용시 Select enum 과 Source enum을 수정해주어야합니다.
